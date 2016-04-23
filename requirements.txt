@@ -1,0 +1,7 @@
+Flask
+Flask-Bcrypt
+flask-login
+flask-restful
+flask_sqlalchemy
+flask-wtf
+migrate
